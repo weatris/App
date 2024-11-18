@@ -1,0 +1,26 @@
+{
+  "selectOption": "select filter option",
+  "filter_items": {
+    "name": "Name",
+    "name_reverse": "Name (Reverse)",
+    "count_lower": "Count Lower",
+    "count_higher": "Count Higher"
+  },
+  "createItem": "Create new item",
+  "updateItem": "Update item",
+  "editItem": "Edit item",
+  "error_page": "Something went wrong",
+  "returnToMain": "Return to main",
+  "count": "Count",
+  "size": "Size",
+  "weight": "Weight",
+  "width": "Width",
+  "height": "Height",
+  "name": "Name",
+  "comments": "Comments",
+  "invalidData": "Invalid Data",
+  "confirmDelete": "Confirm delete",
+  "areYouSure": "Are you sure ?",
+  "accept": "Accept",
+  "cancel": "Cancel"
+}
